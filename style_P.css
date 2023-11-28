@@ -7,7 +7,7 @@ img{max-width: 100%;}
 
 @font-face {
     font-family: akira;
-    src: url(../font/Akira\ Expanded\ Demo.otf);
+    src: url(./font/Akira\ Expanded\ Demo.otf);
 }
 body{
     font-family: 'Noto Sans KR', sans-serif;
